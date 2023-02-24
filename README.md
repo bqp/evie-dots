@@ -1,4 +1,4 @@
 # evie-dots
 🌹 Cute Linux Customization Files
 
-<i>more soon...</i>
+<i>coming soon...</i>
